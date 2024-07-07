@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Safi
 - 👀 I’m interested in App & Web Development
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Redux
