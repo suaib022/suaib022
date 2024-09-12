@@ -1,168 +1,21 @@
-#include <iostream>
-#include <vector>
-#include <string>
 
-using namespace std;
+        
+        
 
-// Base class for common vehicle details
-class Vehicle {
-protected:
-    string brand;
-    string model;
-    int manufacturingYear;
-    string registrationPlate;
+**Design and Implement a C++ Program for a Car Washing Booking System**
 
-public:
-    Vehicle(string b, string m, int y, string r)
-        : brand(b), model(m), manufacturingYear(y), registrationPlate(r) {}
+You are tasked with creating a car washing booking system in C++. The system should allow users to book car washing services by providing various details. Here are the requirements:
 
-    virtual void display() const {
-        cout << "Brand: " << brand << endl;
-        cout << "Model: " << model << endl;
-        cout << "Manufacturing Year: " << manufacturingYear << endl;
-        cout << "Registration Plate: " << registrationPlate << endl;
-    }
+1. **User Input:**
+   - **Customer Name (string) :** The name of the customer booking the service.
+   - **Service Name (array of strings) :** The type of washing service (e.g., Wash, Polish, Detail). Provide a list of available services for the user to choose from.
+   - **Time SlotSlot (array of strings) :** The preferred time slot for the service (e.g., Morning, Afternoon, Evening).
+   - **Vehicle TypeType (array of strings) :** The type of vehicle (e.g., Car, Truck, Van, Motorcycle, Bus, ElectricVehicle, Bicycle, Tractor). Provide a list of vehicle types for selection.
+   - **Vehicle BrandBrand (string) :** The brand of the vehicle.
+   - **Vehicle Model (string) :** The model of the vehicle.
+   - **Manufacturing Year (number) :** The year the vehicle was manufactured.
+   - **Registration Plate (number) :** A unique registration number assigned to the vehicle.
 
-    virtual ~Vehicle() {}
-};
-
-// Derived class for specific vehicle types
-class Car : public Vehicle {
-public:
-    Car(string b, string m, int y, string r) : Vehicle(b, m, y, r) {}
-
-    void display() const override {
-        cout << "Vehicle Type: Car" << endl;
-        Vehicle::display();
-    }
-};
-
-// Other vehicle types can be added similarly, e.g., Truck, Motorcycle, etc.
-
-// Class to hold booking details
-class Booking {
-private:
-    string customerName;
-    string serviceName;
-    string timeSlot;
-    Vehicle* vehicle; // Pointer to Vehicle to handle different vehicle types
-
-public:
-    Booking(string name, string service, string time, Vehicle* v)
-        : customerName(name), serviceName(service), timeSlot(time), vehicle(v) {}
-
-    void display() const {
-        cout << "Customer Name: " << customerName << endl;
-        cout << "Service Name: " << serviceName << endl;
-        cout << "Time Slot: " << timeSlot << endl;
-        if (vehicle) {
-            vehicle->display();
-        }
-    }
-
-    ~Booking() {
-        delete vehicle; // Clean up dynamically allocated vehicle
-    }
-};
-
-// BookingSystem class to manage bookings
-class BookingSystem {
-private:
-    vector<Booking*> bookings;
-
-public:
-    void addBooking() {
-        string customerName, serviceName, timeSlot, vehicleType, brand, model, registrationPlate;
-        int manufacturingYear;
-
-        cout << "Enter customer name: ";
-        getline(cin, customerName);
-
-        cout << "Available services: Wash, Polish, Detail\n";
-        cout << "Enter service name: ";
-        getline(cin, serviceName);
-
-        cout << "Available time slots: Morning, Afternoon, Evening\n";
-        cout << "Enter time slot: ";
-        getline(cin, timeSlot);
-
-        cout << "Available vehicle types: Car, Truck, Van, Motorcycle, Bus, ElectricVehicle, Bicycle, Tractor\n";
-        cout << "Enter vehicle type: ";
-        getline(cin, vehicleType);
-
-        cout << "Enter vehicle brand: ";
-        getline(cin, brand);
-
-        cout << "Enter vehicle model: ";
-        getline(cin, model);
-
-        cout << "Enter manufacturing year: ";
-        cin >> manufacturingYear;
-        cin.ignore(); // Ignore newline character left by cin
-
-        cout << "Enter registration plate: ";
-        getline(cin, registrationPlate);
-
-        Vehicle* vehicle = nullptr;
-        if (vehicleType == "Car") {
-            vehicle = new Car(brand, model, manufacturingYear, registrationPlate);
-        }
-        // Additional vehicle types should be handled similarly
-
-        if (vehicle) {
-            bookings.push_back(new Booking(customerName, serviceName, timeSlot, vehicle));
-            cout << "Booking successfully added!\n";
-        } else {
-            cout << "Invalid vehicle type.\n";
-        }
-    }
-
-    void viewBookings() const {
-        if (bookings.empty()) {
-            cout << "No bookings available.\n";
-            return;
-        }
-
-        cout << "Current bookings:\n";
-        for (const auto& booking : bookings) {
-            booking->display();
-            cout << "----------------------------\n";
-        }
-    }
-
-    ~BookingSystem() {
-        for (auto& booking : bookings) {
-            delete booking;
-        }
-    }
-};
-
-int main() {
-    BookingSystem system;
-    int choice;
-
-    while (true) {
-        cout << "1. Add Booking\n";
-        cout << "2. View Bookings\n";
-        cout << "3. Exit\n";
-        cout << "Enter your choice: ";
-        cin >> choice;
-        cin.ignore(); // Ignore newline character left by cin
-
-        switch (choice) {
-            case 1:
-                system.addBooking();
-                break;
-            case 2:
-                system.viewBookings();
-                break;
-            case 3:
-                cout << "Exiting...\n";
-                return 0;
-            default:
-                cout << "Invalid choice. Please try again.\n";
-        }
-    }
-
-    return 0;
-}
+2. **Functionality:**
+   - Users should be able to make multiple bookings, and each booking should be stored in an array.
+   - After completing a booking, users should be able to view their current bookings.
