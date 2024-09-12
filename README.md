@@ -1,8 +1,3 @@
-- 👋 Hi, I’m Safi
-- 👀 I’m interested in App & Web Development
-- 🌱 I’m currently learning Redux
-
-
 #include <iostream>
 #include <vector>
 #include <string>
@@ -43,16 +38,6 @@ public:
 };
 
 // Other vehicle types can be added similarly, e.g., Truck, Motorcycle, etc.
-// Example:
-class Truck : public Vehicle {
-public:
-    Truck(string b, string m, int y, string r) : Vehicle(b, m, y, r) {}
-
-    void display() const override {
-        cout << "Vehicle Type: Truck" << endl;
-        Vehicle::display();
-    }
-};
 
 // Class to hold booking details
 class Booking {
@@ -101,7 +86,7 @@ public:
         cout << "Enter time slot: ";
         getline(cin, timeSlot);
 
-        cout << "Available vehicle types: Car, Truck, Van, Motorcycle, Bus, Electric Vehicle, Bicycle, Tractor\n";
+        cout << "Available vehicle types: Car, Truck, Van, Motorcycle, Bus, ElectricVehicle, Bicycle, Tractor\n";
         cout << "Enter vehicle type: ";
         getline(cin, vehicleType);
 
@@ -121,8 +106,6 @@ public:
         Vehicle* vehicle = nullptr;
         if (vehicleType == "Car") {
             vehicle = new Car(brand, model, manufacturingYear, registrationPlate);
-        } else if (vehicleType == "Truck") {
-            vehicle = new Truck(brand, model, manufacturingYear, registrationPlate);
         }
         // Additional vehicle types should be handled similarly
 
