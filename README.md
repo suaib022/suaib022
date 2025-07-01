@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Safi</h1>
 <h3 align="center">A mid developer from Bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suaib022" alt="suaib022" /></a> </p>
-
 - 🔭 I’m currently working on [VromonBD-Server](https://github.com/suaib022/VromonBd-Server)
 
 - 🌱 I’m currently learning **NextJs**
