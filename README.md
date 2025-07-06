@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [VromonBD-Server](https://github.com/suaib022/VromonBd-Server)
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **PostgreSQL**
 
 - 📫 How to reach me **Ssa222158@gmail.com**
 
