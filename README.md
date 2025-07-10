@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Safi</h1>
 <h3 align="center">A mid developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on unemployed
+- 🔭 I’m currently unemployed
 
 - 🌱 I’m currently learning **Prisma**
 
