@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Safi</h1>
 <h3 align="center">A mid developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [VromonBD-Server](https://github.com/suaib022/VromonBd-Server)
+- 🔭 I’m currently working on unemployed
 
-- 🌱 I’m currently learning **PostgreSQL**
+- 🌱 I’m currently learning **Prisma**
 
 - 📫 How to reach me **Ssa222158@gmail.com**
 
