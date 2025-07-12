@@ -99,10 +99,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suaib022&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suaib022&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=suaib022&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=suaib022&theme=gitdimmed&column=4&row=5&margin-w=10&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=suaib022&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suaib022&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=suaib022&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=suaib022&theme=gitdimmed&column=4&row=5&margin-w=10&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=suaib022&radius=10&theme=gotham&area=true&order=5&hide_border=false&hide_title=false&custom_title=Contribution%20Graph" height="50" alt="activity-graph graph"  />
 </div>
 
