@@ -94,7 +94,7 @@
 
 ###
 
-<h2 align="left">📈 GitHub Stats (a little flex)</h2>
+<h2 align="left">📈 GitHub Stats </h2>
 
 ###
 
