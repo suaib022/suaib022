@@ -8,12 +8,6 @@
 
 <h2 align="left">🧰 Tools & Tech I Play With</h2>
 
-###
-
-//<img align="right" height="220" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBrbHVlcXA1cXlpbDgxenp0cWR5bGM3bWhhZ201MzUxdWo0OWRmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tTqHSXnVWwRl0NfwsX/giphy.gif"  />//
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
@@ -105,6 +99,7 @@
 </div>
 
 ###
+
 
 
 
