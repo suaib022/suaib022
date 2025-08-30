@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">🧰 Tools & Tech I Play With</h2>
+<h2 align="left">🧰 Tools & Tech</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
@@ -99,6 +99,7 @@
 </div>
 
 ###
+
 
 
 
