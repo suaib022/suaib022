@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="220" src="[https://i.ibb.co/KxWD8Btj/photo-2025-06-26-13-05-03.jpg](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczdxM3Roc3JpamduNnJxZzUwMG9uNGxhejA3bjU2M3hqeW5jZ3E5dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tTqHSXnVWwRl0NfwsX/giphy.gif)"  />
+<img align="right" height="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczdxM3Roc3JpamduNnJxZzUwMG9uNGxhejA3bjU2M3hqeW5jZ3E5dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tTqHSXnVWwRl0NfwsX/giphy.gif"  />
 
 ###
 
@@ -105,4 +105,5 @@
 </div>
 
 ###
+
 
