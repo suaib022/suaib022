@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A mid developer from 🇧🇩 Bangladesh, building stuff with MERN & PERN stacks. Passionate about turning ideas into real-world solutions — always learning, always building</p>
+<!-- <p align="left">A mid developer from 🇧🇩 Bangladesh, building stuff with MERN & PERN stacks. Passionate about turning ideas into real-world solutions — always learning, always building</p> -->
 
 ###
 
@@ -99,6 +99,7 @@
 </div>
 
 ###
+
 
 
 
