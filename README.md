@@ -73,16 +73,16 @@ A developer who loves building web applications. I enjoy working with modern tec
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=suaib022&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suaib022&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=suaib022&theme=github_dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suaib022&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 ---
@@ -110,6 +110,7 @@ A developer who loves building web applications. I enjoy working with modern tec
 </p>
 
 ---
+
 
 
 
