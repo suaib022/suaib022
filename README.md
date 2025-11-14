@@ -92,14 +92,6 @@ A developer who loves building web applications. I enjoy working with modern tec
 
 ---
 
-## 🔝 Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=suaib022&limit=5&theme=holi&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</p>
-
----
-
 <p align="center">
   <a href="https://buymeacoffee.com/ssa222158j">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
@@ -107,6 +99,7 @@ A developer who loves building web applications. I enjoy working with modern tec
 </p>
 
 ---
+
 
 
 
