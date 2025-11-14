@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Safi 👋</h1>
 
 <p align="center">
-  <em>**Full** ~~Full~~ Backend Stack Developer
+  <em>Web Developer
 </em>
 </p>
 
@@ -117,5 +117,6 @@ I'm a passionate developer who loves building web applications and solving compl
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=suaib022&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
 
 
