@@ -1,7 +1,3 @@
-# 💫 About Me:
-I am Safi
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/safi3917) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/safi0219) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__ahmed__safi__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-safi-515399310) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/AlternativeBulky5334) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23154506) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/safi_188) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ssa222158@gmail.com) 
 
@@ -22,4 +18,5 @@ I am Safi
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
