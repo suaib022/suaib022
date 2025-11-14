@@ -20,11 +20,8 @@
 
 ## 💫 About Me
 
-I'm a passionate developer who loves building web applications and solving complex problems. I enjoy working with modern technologies and continuously learning new skills to stay up-to-date with the ever-evolving tech landscape.
+A developer who loves building web applications. I enjoy working with modern technologies and continuously learning new skills to stay up-to-date with the ever-evolving tech landscape.
 
-- 🔭 I'm currently working on exciting full-stack projects
-- 🌱 I'm constantly learning and exploring new technologies
-- 💬 Ask me about JavaScript, React, Node.js, and web development
 - 📫 Reach out to me at **ssa222158@gmail.com**
 
 ---
@@ -117,6 +114,7 @@ I'm a passionate developer who loves building web applications and solving compl
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=suaib022&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
 
 
 
