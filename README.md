@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Safi 👋</h1>
+<!-- <h1 align="center">Hi there, I'm Safi 👋</h1> -->
 
 <p align="center">
   <em>Web Developer
@@ -99,6 +99,7 @@ A developer who loves building web applications. I enjoy working with modern tec
 </p>
 
 ---
+
 
 
 
