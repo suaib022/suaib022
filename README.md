@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="https://discord.gg/safi3917"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="https://facebook.com/safi0219"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://instagram.com/__ahmed__safi__"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a>
+  <!-- <a href="https://facebook.com/safi0219"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/></a> -->
+  <!-- <a href="https://instagram.com/__ahmed__safi__"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a> -->
   <a href="https://linkedin.com/in/ahmed-safi-515399310"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <!-- <a href="https://reddit.com/user/AlternativeBulky5334"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit"/></a> -->
   <!-- <a href="https://stackoverflow.com/users/23154506"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a> -->
@@ -99,6 +99,7 @@ A developer who loves building web applications. I enjoy working with modern tec
 </p>
 
 ---
+
 
 
 
